@@ -76,9 +76,16 @@ I'm passionate about building **scalable, automated environments** and combining
 
 ### 🤝 Let's Connect
 
-📧 **Email:** [omarahorar@gmail.com](mailto:omarahorar@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/omar-ahorrar-02a5a9244](https://www.linkedin.com/in/omar-ahorrar-02a5a9244/)
+<p align="left">
+  <a href="mailto:omarahorar@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/omar-ahorrar-02a5a9244/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-⭐ *"Building bridges between ideas and infrastructure — one commit at a time."*
+⭐ *"Learning, building, and automating."*
