@@ -2,34 +2,61 @@
 <h3 align="center">🌩️ Cloud & DevOps Engineering Student | 💻 Web Dev Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmarAhorrar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Omarahorrar5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Engineer of adaptive systems and forward-thinking frameworks — crafting production-ready, scalable, and automated environments.  
-I’m passionate about continuous orchestration, resilient architectures, and blending DevOps practices with creative, future-driven design.  
+I'm a **Cloud, DevOps, and Web Development enthusiast**, currently studying at **INPT Rabat**.  
+I love working on **personal projects** to develop my skills and explore new technologies.  
+I'm passionate about building **scalable, automated environments** and combining **modern DevOps practices** with creative web design. 
 
 ---
 
 ### 🧠 Tech Stack
 
-#### 🗣️ **Languages**
-JavaScript • TypeScript • PHP • Python • C/C++ • HTML • CSS  
+#### 🗣️ Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
 
-#### ⚙️ **Frameworks & Libraries**
-Vue.js • React • Node.js • Express.js • Laravel  
+#### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+</p>
 
-#### 🗄️ **Databases**
-MySQL • PostgreSQL • MongoDB  
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+</p>
 
-#### ☁️ **DevOps & Cloud**
-Docker • Git • GitHub • GitHub Actions  
+#### ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</p>
 
-#### 🧰 **Tools**
-VS Code • Postman • Figma  
+#### 🧰 Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
@@ -37,12 +64,12 @@ VS Code • Postman • Figma
 
 #### 🧩 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarAhorrar&show_icons=true&theme=tokyonight" alt="OmarAhorrar GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omarahorrar5&show_icons=true&theme=tokyonight" alt="Omarahorrar5 GitHub Stats" />
 </p>
 
 #### 💻 My Programming Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAhorrar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarahorrar5&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
