@@ -18,47 +18,19 @@ I'm passionate about building **scalable, automated environments** and combining
 ### 🧠 Tech Stack
 
 #### 🗣️ Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</p>
+**Python**, **Java**, **C**, **C++**, **HTML**, **CSS**, **JavaScript**
 
 #### ⚙️ Frameworks & Libraries
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40"/>
-</p>
+**Vue.js**, **React**, **Node.js**, **Express.js**, **Laravel**
 
 #### 🗄️ Databases
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40"/>
-</p>
+**MySQL**, **PostgreSQL**, **MongoDB**, **Hbase**, **Supabase**
 
 #### ☁️ DevOps & Cloud
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" style="filter: invert(1);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-</p>
+**Git**, **Docker**, **CI/CD (GitLab CI)**, **Linux**, **Shell Scripting**
 
 #### 🧰 Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-</p>
+**VS Code**, **Postman**, **Figma**
 
 ---
 
@@ -78,16 +50,9 @@ I'm passionate about building **scalable, automated environments** and combining
 
 ### 🤝 Let's Connect
 
-<p align="left">
-  <a href="mailto:omarahorar@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/omar-ahorrar-02a5a9244/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
-  </a>
-</p>
+📧 **Email:** [omarahorar@gmail.com](mailto:omarahorar@gmail.com)  
+💼 **LinkedIn:** [Omar Ahorrar](https://www.linkedin.com/in/omar-ahorrar-02a5a9244/)
 
 ---
 
-⭐ *"Learning, building, and automating."*
+⭐ *"Learning, bu*
