@@ -55,4 +55,4 @@ I'm passionate about building **scalable, automated environments** and combining
 
 ---
 
-⭐ *"Learning, bu*
+⭐ *"Learning, building, and automating."*
