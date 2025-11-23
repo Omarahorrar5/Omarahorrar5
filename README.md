@@ -24,7 +24,7 @@ I'm passionate about building **scalable, automated environments** and combining
 **Vue.js**, **React**, **Node.js**, **Express.js**, **Laravel**
 
 #### 🗄️ Databases
-**MySQL**, **PostgreSQL**, **MongoDB**, **Hbase**, **Supabase**
+**MySQL**, **PostgreSQL**, **Supabase**, **MongoDB**, **Hbase**
 
 #### ☁️ DevOps & Cloud
 **Linux**, **Shell Scripting**, **Git**, **Docker**, **CI/CD (GitLab CI)**
