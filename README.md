@@ -37,11 +37,6 @@ I'm passionate about building **scalable, automated environments** and combining
   <img src="https://github-readme-stats.vercel.app/api?username=Omarahorrar5&show_icons=true&theme=tokyonight" alt="Omarahorrar5 GitHub Stats" />
 </p>
 
-#### 💻 My Programming Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarahorrar5&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🤝 Let's Connect
