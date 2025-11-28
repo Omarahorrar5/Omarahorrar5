@@ -1,10 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Omar Ahorrar</h1>
 <h3 align="center">🌩️ Cloud & DevOps Engineering Student | 💻 Web Dev Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omarahorrar5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
