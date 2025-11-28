@@ -23,7 +23,7 @@ I'm passionate about building **scalable, automated environments** and combining
 **MySQL**, **PostgreSQL**, **Supabase**, **MongoDB**, **Hbase**
 
 #### ☁️ DevOps & Cloud
-**Linux**, **Shell Scripting**, **Git**, **Docker**, **CI/CD (GitLab CI)**
+**Linux**, **Shell Scripting**, **Git**, **Docker**, **CI/CD (GitLab CI, Jenkins)**
 
 #### 🧰 Tools
 **VS Code**, **Postman**, **Figma**
