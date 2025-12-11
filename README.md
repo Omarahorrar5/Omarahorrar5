@@ -7,7 +7,7 @@
 
 I'm a **Cloud, DevOps, and Web Development enthusiast**, currently studying at **INPT Rabat**.  
 I love working on **personal projects** to develop my skills and explore new technologies.  
-I'm passionate about building **scalable, automated environments** and combining **modern DevOps practices** with creative web design. 
+I'm passionate about building **scalable, automated environments** and combining **modern DevOps practices** with creative web design.
 
 ---
 
@@ -20,10 +20,13 @@ I'm passionate about building **scalable, automated environments** and combining
 **Vue.js**, **React**, **Node.js**, **Express.js**, **Laravel**
 
 #### 🗄️ Databases
-**MySQL**, **PostgreSQL**, **Supabase**, **MongoDB**, **Hbase**
+**MySQL**, **PostgreSQL**, **Supabase**, **MongoDB**, **HBase**
 
 #### ☁️ DevOps & Cloud
-**Linux**, **Shell Scripting**, **Git**, **Docker**, **CI/CD (GitLab CI, Jenkins)**
+**Linux**, **Shell Scripting**,  
+**Git**, **Docker**, **GitHub Actions**, **GitLab CI/CD**, **Jenkins**,  
+**Docker Compose**, **Kubernetes (minikube, kubectl)**,  
+**SonarQube**, **Docker Scout**, **Trivy**
 
 #### 🧰 Tools
 **VS Code**, **Postman**, **Figma**
