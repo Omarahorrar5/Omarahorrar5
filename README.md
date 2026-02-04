@@ -34,7 +34,8 @@ I'm passionate about building **scalable, automated environments** and combining
 
 #### 🧩 GitHub Stats  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Omarahorrar5&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omarahorrar5&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Omarahorrar5&theme=tokyonight" />
 </p>
 
 ---
