@@ -13,17 +13,17 @@ I'm passionate about building **scalable, automated environments** and combining
 
 ### 🧠 Tech Stack
 
-#### 🗣️ Languages
-**Python**, **Java**, **C**, **C++**, **HTML**, **CSS**, **JavaScript**
+#### 🗣️ Programming Languages
+**Python**, **Java**, **C**, **C++**, **HTML/CSS**, **JavaScript**
 
-#### ⚙️ Frameworks & Libraries
+#### ⚙️ Web Frameworks
 **Vue.js**, **React**, **Node.js**, **Express.js**, **Laravel**
 
 #### 🗄️ Databases
 **MySQL**, **PostgreSQL**, **Supabase**, **MongoDB**, **HBase**
 
 #### ☁️ DevOps & Cloud
-**Linux**, **Shell Scripting**, **Git**, **Docker**, **GitLab CI**, **Jenkins**, **Kubernetes**, **SonarQube**, **Trivy**
+**Linux**, **Git/GitHub**, **Docker**, **Kubernetes**, **GitLab CI**, **Jenkins**, **SonarQube**, **Trivy**, **AWS (EC2, Lambda, S3, VPC, IAM)**
 
 #### 🧰 Tools
 **VS Code**, **Postman**, **Wireshark**
