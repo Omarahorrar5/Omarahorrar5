@@ -41,7 +41,7 @@ I'm passionate about building **scalable, automated environments** and combining
 
 ### 🤝 Let's Connect
 
-📧 **Email:** [omarahorar@gmail.com](mailto:omarahorar@gmail.com)  
+📧 **Email:** [omarahorrar@gmail.com](mailto:omarahorrar@gmail.com)  
 💼 **LinkedIn:** [Omar Ahorrar](https://www.linkedin.com/in/omar-ahorrar-02a5a9244/)
 
 ---
