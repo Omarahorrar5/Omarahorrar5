@@ -4,29 +4,23 @@
 ---
 
 ### 👨‍💻 About Me
-
-I'm a **Cloud, DevOps, and Web Development enthusiast**, currently studying at **INPT Rabat**.  
-I love working on **personal projects** to develop my skills and explore new technologies.  
-I'm passionate about building **scalable, automated environments** and combining **modern DevOps practices** with creative web design.
+I'm a 4th-Year Engineering Student at **INPT Rabat** specializing in **DevOps**, **Cloud** and **Distributed Systems**, with a strong interest in **Software Engineering** and **Cloud Technologies**.
 
 ---
 
 ### 🧠 Tech Stack
 
 #### 🗣️ Programming Languages
-**Python**, **Java**, **C**, **C++**, **HTML/CSS**, **JavaScript**
+**Python**, **Java**, **C/C++**, **JavaScript**, **PHP**
 
 #### ⚙️ Web Frameworks
-**Vue.js**, **React**, **Node.js**, **Express.js**, **Laravel**
+**React**, **Node.js**, **Laravel**, **FastAPI**
 
 #### 🗄️ Databases
-**MySQL**, **PostgreSQL**, **Supabase**, **MongoDB**, **HBase**
+**MySQL**, **PostgreSQL**, **MongoDB**, **HBase**
 
 #### ☁️ DevOps & Cloud
-**Linux**, **Git/GitHub**, **Docker**, **Kubernetes**, **GitLab CI**, **Jenkins**, **SonarQube**, **Trivy**, **AWS (EC2, Lambda, S3, VPC, IAM)**
-
-#### 🧰 Tools
-**VS Code**, **Postman**, **Wireshark**
+**Linux**, **Docker**, **Kubernetes**, **CI/CD**, **AWS**
 
 ---
 
